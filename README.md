@@ -12,26 +12,25 @@ Applying my skills to the evolving domain of AI and leveraging data to drive inn
 - **B.Tech, Computer Science Engineering** 
 
 ## 🔨 Languages and Tools
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://jupyter.org" target="_blank"><img align="left" alt="Jupyter" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/jupyter/jupyter.svg"></a>
-<a href="https://numpy.org" target="_blank"><img align="left" alt="NumPy" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/numpy/numpy.svg"></a>
-<a href="https://pandas.pydata.org" target="_blank"><img align="left" alt="Pandas" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pandas/pandas.svg"></a>
-<a href="https://scikit-learn.org" target="_blank"><img align="left" alt="Scikit-Learn" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/scikit-learn/scikit-learn.svg"></a>
-<a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="TensorFlow" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"></a>
-<a href="https://keras.io" target="_blank"><img align="left" alt="Keras" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/keras/keras.svg"></a>
-<a href="https://pytorch.org" target="_blank"><img align="left" alt="PyTorch" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></a>
-<a href="https://matplotlib.org" target="_blank"><img align="left" alt="Matplotlib" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/matplotlib/matplotlib.svg"></a>
-<a href="https://seaborn.pydata.org" target="_blank"><img align="left" alt="Seaborn" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/seaborn/seaborn.svg"></a>
-<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://github.com" target="_blank"><img align="left" alt="GitHub" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/github/github.svg"></a>
-<a href="https://code.visualstudio.com" target="_blank"><img align="left" alt="VS Code" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vscode/vscode.svg"></a>
-<a href="https://www.snowflake.com" target="_blank"><img align="left" alt="Snowflake" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/snowflake/snowflake.svg"></a>
-<a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
-<a href="https://airflow.apache.org" target="_blank"><img align="left" alt="Airflow" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/airflow/airflow.svg"></a>
-<a href="https://www.tableau.com" target="_blank"><img align="left" alt="Tableau" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tableau/tableau.svg"></a>
-<a href="https://streamlit.io" target="_blank"><img align="left" alt="Streamlit" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/streamlit/streamlit.svg"></a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-<br clear="left"/>
 
 ## 📚 What I'm Learning
 - **Large Language Models (LLMs)**
