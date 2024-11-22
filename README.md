@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate data scientist, machine learning enthusiast, and a tech aficionado. I love diving into data and crafting innovative solutions to real-world problems.
 
-![Profile views](https://komarev.com/ghpvc/?username=bansalgul&color=brightgreen)
-
 ## ❤️ Passionate About
 Applying my skills to the evolving domain of AI and leveraging data to drive innovation and efficiency.
 
