@@ -35,8 +35,7 @@ Applying my skills to the evolving domain of AI and leveraging data to drive inn
 ## 📚 What I'm Learning
 - **Large Language Models (LLMs)**
 - **Natural Language Processing (NLP)**
-- **Computer Vision**
-
+- **AI Agents**
 
 ## 🌟 Highlights
 - **Winner:** Smart India Hackathon’20
@@ -44,18 +43,12 @@ Applying my skills to the evolving domain of AI and leveraging data to drive inn
 - **ML for Product Managers:** Duke University
 
 ## 💼 Experience
+- **Annheuser-Busch InBev** - Data Scientist
 - **Palo Alto Strategy Group** - Data Science Consultant
 - **HTI Lab, Plaksha University** - Research Intern
 - **Accolite** - Senior Engineer
 - **Accolite** - Software Engineer Intern
 
-## 📈 Projects
-- **Smart DOOH Advertising Solution**
-  - AI-based Smart Billboard solution using Computer Vision.
-- **Raahgir - Traffic Sign Detection**
-  - Advanced traffic sign detection system using a custom-trained YOLOv8 model.
-- **Rise.AI - Investment Research Tool**
-  - Investment research tool using a Retrieval-Augmented Generation model for report-based Q&A.
 
 ## 📫 Connect with me
 <p align="left">
