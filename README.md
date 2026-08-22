@@ -1,61 +1,88 @@
-# Hi there, I'm Gul Bansal 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate data scientist, machine learning enthusiast, and a tech aficionado. I love diving into data and crafting innovative solutions to real-world problems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,12,20,30&text=Gul%20Bansal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20AI%20•%20LLM%20Systems&descAlignY=60&descSize=18"/>
 
-## ❤️ Passionate About
-Applying my skills to the evolving domain of AI and leveraging data to drive innovation and efficiency.
-
-## 🎓 Education
-- **Tech Leaders Fellowship**(PGD in AI, ML and Leadership), Plaksha University
-- **B.Tech, Computer Science Engineering** 
-
-## 🔨 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-4A4A55?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=hugging-face&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-
-## 📚 What I'm Learning
-- **Large Language Models (LLMs)**
-- **Natural Language Processing (NLP)**
-- **AI Agents**
-
-## 🌟 Highlights
-- **Winner:** Smart India Hackathon’20
-- **Data Science Associate:** DataCamp
-- **ML for Product Managers:** Duke University
-
-## 💼 Experience
-- **Annheuser-Busch InBev** - Data Scientist
-- **Palo Alto Strategy Group** - Data Science Consultant
-- **HTI Lab, Plaksha University** - Research Intern
-- **Accolite** - Senior Engineer
-- **Accolite** - Software Engineer Intern
-
-
-## 📫 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/gulbansal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gul15bansal@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Enterprise+AI+Products.;LLMs+%7C+LangGraph+%7C+RAG+%7C+FastAPI.;AI+Agents+that+reason%2C+retrieve+and+act.;Always+shipping+something+new+🚀"/>
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gulbansal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gul15bansal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bansalgul&style=flat-square&color=7F3FBF"/>
+</p>
+
+</div>
+
+# hey, i'm gul 👋
+
+I'm an **AI Engineer** passionate about building production-grade AI systems powered by **LLMs, autonomous agents, retrieval systems, and machine learning**.
+
+Currently building enterprise GenAI applications that transform natural language into actionable business intelligence.
+
+```bash
+> whoami
+
+Name        : Gul Bansal
+Role        : AI Engineer @ AB InBev
+Location    : Bengaluru, India
+
+Focus Areas :
+• Agentic AI
+• LLM Systems
+• Retrieval-Augmented Generation
+• AI Infrastructure
+• ML Engineering
+```
+
+---
+
+## about me
+
+- 🍺 AI Engineer at **AB InBev Global GenAI Team**
+- 🎓 Tech Leaders Fellow at **Plaksha University**
+- 🤖 Building AI agents using **LangGraph, LangChain, FastAPI & OpenAI**
+- 📊 Passionate about LLM systems, RAG, AI infrastructure, and production ML.
+- 🌱 Currently exploring **MCP, AI evaluation, multimodal AI, and inference optimization**.
+
+---
+
+## tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,bash,pytorch,tensorflow,sklearn,fastapi,docker,aws,redis,postgres,git,github,vscode"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+</p>
+
+---
+
+
+## contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build AI products that people actually use.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,12,20,30"/>
+
+</div>
