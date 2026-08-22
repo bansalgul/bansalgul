@@ -71,11 +71,9 @@ Focus Areas :
 
 ## contribution snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bansalgul/bansalgul/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
