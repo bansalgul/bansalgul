@@ -54,7 +54,7 @@ Focus Areas :
 ## tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,bash,pytorch,tensorflow,sklearn,fastapi,docker,aws,redis,postgres,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,pytorch,tensorflow,sklearn,fastapi,docker,aws,redis,postgres,git,github,vscode"/>
 </p>
 
 <p align="center">
