@@ -51,20 +51,21 @@ Focus Areas :
 
 ---
 
+---
+
 ## tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,pytorch,tensorflow,sklearn,fastapi,docker,aws,redis,postgres,git,github,vscode"/>
-</p>
+- **GenAI / LLMs**: `LLMs` · `RAG` · `Agentic AI` · `Prompt Engineering` · `LLM Evaluation` · `OpenAI` · `Claude` · `Hugging Face`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-</p>
+- **Agent Frameworks**: `LangChain` · `LangGraph` · `Multi-Agent Workflows` · `MCP` · `Tool Calling` · `AI Observability (Langfuse)`
+
+- **Machine Learning**: `PyTorch` · `TensorFlow` · `Scikit-Learn` · `NLP` · `Feature Engineering` · `Model Deployment`
+
+- **Data Engineering & Analytics**: `SQL` · `Snowflake` · `Pandas` · `NumPy` · `Airflow` · `dbt` · `Fivetran` · `Power BI` · `Tableau`
+
+- **Backend & Infrastructure**: `Python` · `FastAPI` · `REST APIs` · `Redis` · `PostgreSQL` · `Docker` · `AWS`
+
+- **Developer Tools**: `Git` · `GitHub` · `VS Code` · `Cursor` · `Claude Code` · `Linux` · `Bash`
 
 ---
 
